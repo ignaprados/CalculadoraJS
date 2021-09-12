@@ -15,7 +15,7 @@ I developed this project in September 2021. A calculator with a simple user inte
 <br><br>
 I learned a lot about JavaScript troubleshooting this website, validating numbers, creating possible character limitations, saving the light and dark theme in the localStorage, etc. The calculator goes up to +99 billion (99,999,999,999,999), if that's many nines.
 <br><br>
-Si sos observador/a, habrás notado que el favicon de la web (la imagen que aparece en la pestaña del navegador) es muy parecido al logo de Martin Garrix (DJ de música electrónica que me encanta).
+If you are an observer, you may have noticed that the web favicon (the image that appears in the browser tab) is very similar to the logo of Martin Garrix (an electronic music DJ that I love).
 
 ## Key Technologies used
 - HTML5
