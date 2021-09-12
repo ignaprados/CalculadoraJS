@@ -1,5 +1,5 @@
 ![banner](https://raw.githubusercontent.com/IgnacioPrados/CalculadoraJS/master/images/preview.jpg)
-# CalculadoraJS
+# Calculadora JS
 
 Web App JavaScript Calculator
 
